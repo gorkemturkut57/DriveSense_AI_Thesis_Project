@@ -1,11 +1,12 @@
-# Driver Safety: AI-Based Real-Time Drowsiness Detection System
+# DriveSense: AI-Based Real-Time Drowsiness Detection System
+
+**Please contact me for source files**
 
 ## Project Purpose  
 Driver drowsiness is a major cause of traffic accidents. This project aims to detect driver fatigue signs in real time using AI and computer vision to improve road safety.
 
 Demo Video: https://www.linkedin.com/feed/update/urn:li:activity:7315650463918436354/
 
-**Please contact me for source files**
 
 ## Technical Features
 
