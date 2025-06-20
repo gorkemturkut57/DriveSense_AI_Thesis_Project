@@ -10,9 +10,7 @@ Driver drowsiness is a major cause of traffic accidents. This project aims to de
 
 Demo Video: https://www.linkedin.com/feed/update/urn:li:activity:7315650463918436354/
 
-![](images/logo.jpg)
-
-!(images/)  
+![Fotoğraf Açıklaması](images/logo.jpg)
 
 ## Technical Features
 
